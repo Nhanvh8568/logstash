@@ -1,0 +1,1 @@
+bin/logstash-plugin generate --type input --name xkcd --path ~/ws/elastic/plugins
